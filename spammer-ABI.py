@@ -6,7 +6,7 @@ def restart_program():
    os.execl(python, python, * sys.argv)
    curdir = os.getcwd()
 ##############################
-""" Coded By Allistar by Star Sec."""
+""" Coded By ABIZAR by Star Sec."""
 os.system("clear")
 print " "
 print "   ___   __  __   ___     ___       "
@@ -15,7 +15,7 @@ print "  \__ \ | |\/| | \__ \   \__ \ | '_ \ / _` | | '  \  | '  \  / -_) | '_|"
 print "  |___/ |_|  |_| |___/   |___/ | .__/ \__,_| |_|_|_| |_|_|_| \___| |_|  "
 print "                               |_|                                      "
 print "------------------------------------------------------------------------- "
-print "  ===|[ SMS Spammer ]|==="
+print "  ===|[ SMS Spammer BY ABIZAR ]|==="
 print "  [01] Setup New Session        "
 print "  [02] Repeat Last Spam          "
 print "  [03] Update           "
